@@ -1,2 +1,7 @@
 sklearn
 pandas
+numpy
+six
+IPython
+pydotplus
+imblearn
